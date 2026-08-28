@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vvlaiti.github.io/rencaiwangla/sitemap.xml
